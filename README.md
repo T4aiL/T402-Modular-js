@@ -11,7 +11,13 @@
 T40201 - Przygotuj część projektu grupowego w oparciu o moduły JS.
 
 Projekt: Interaktywna aplikacja obsługiwana klawiaturą pozawalająca na zmianę położenia elementu (prostokąt)
-
+ToDo
+1. Przygotowanie planszy
+2. Przygotowanie klasy Player (prototyp kwadrat)
+3. Obsługa klawiatury Ruch left, right, top, down
+4. Zmiana playera (transform)
+5. Game Over
+6. Score count
 
 ```
 ### --------Links
