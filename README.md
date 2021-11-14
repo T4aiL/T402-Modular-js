@@ -35,7 +35,11 @@ https://github.com/T4aiL/T402-Modular-js
 
 GOOGLE DRIVE: https://drive.google.com/drive/folders/1FCn1K3AvZdta3JRNnfCFUlSqAyMWgxNe?usp=sharing
 
-https://randomwordgenerator.com | https://placeholder.com/
+https://randomwordgenerator.com  |  https://placeholder.com/  |  https://reqres.in
+
+```js
+npx json-server --watch data/db.json --port 8000
+```
 
 https://www.w3.org | https://validator.w3.org | https://www.php.net/manual/en/
 ### --------Repositiories
