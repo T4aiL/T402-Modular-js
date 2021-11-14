@@ -1,4 +1,4 @@
-# T401 (2020.09.07) -TechnologieWebowe ADV
+# T409 Modular JS
 ## -------INFO
 ```
 1. JS - Modular project
@@ -8,7 +8,7 @@
 
 ### --------ZAD
 ```
-T40201 - Przygotuj część projektu grupowego w oparciu o moduły JS.
+T40901 - Przygotuj część projektu grupowego w oparciu o moduły JS.
 
 Projekt: Interaktywna aplikacja obsługiwana klawiaturą pozawalająca na zmianę położenia elementu (prostokąt)
 ToDo
