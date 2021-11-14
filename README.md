@@ -8,7 +8,14 @@
 
 ### --------ZAD
 ```
-T40901 - Przygotuj część projektu grupowego w oparciu o moduły JS.
+T40902 - Przygotuj grupowo strone zawierajaca nastepujace elementy:
+
+1. Galeria z lightboxem (powiekszenie oraz przyciski next, prev)
+2. Menu rozwijalne z burgerem (animowany burger zmieniajacy sie w znam X po otwarciu menu)
+3. Sortowanie postow bloga (wg daty, rosnaco/malejaco)
+4. Slider z wpisami ()
+
+T40902 - Przygotuj część projektu grupowego w oparciu o moduły JS.
 
 Projekt: Interaktywna aplikacja obsługiwana klawiaturą pozawalająca na zmianę położenia elementu (prostokąt)
 ToDo
@@ -24,6 +31,8 @@ ToDo
 https://github.com/T4aiL/T402-Modular-js
 
 GOOGLE DRIVE: https://drive.google.com/drive/folders/1FCn1K3AvZdta3JRNnfCFUlSqAyMWgxNe?usp=sharing
+
+https://randomwordgenerator.com | https://placeholder.com/
 
 https://www.w3.org | https://validator.w3.org | https://www.php.net/manual/en/
 ### --------Repositiories
