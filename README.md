@@ -8,15 +8,14 @@
 
 ### --------ZAD
 ```
-T40902 - Przygotuj grupowo strone zawierajaca nastepujace elementy:
+T40901 - Przygotuj grupowo strone zawierajaca nastepujace elementy:
 
 1. Galeria z lightboxem (powiekszenie oraz przyciski next, prev)
 2. Menu rozwijalne z burgerem (animowany burger zmieniajacy sie w znam X po otwarciu menu)
 3. Sortowanie postow bloga (wg daty, rosnaco/malejaco)
 4. Slider z wpisami (next/prev)
-5. Footer z przyciskiem powrotu na góre strony oraz
-
-
+5. Header z logo i menu
+6. Footer z przyciskiem powrotu na góre strony oraz linkami do mediów spolecznosciowych
 
 T40902 - Przygotuj część projektu grupowego w oparciu o moduły JS.
 
