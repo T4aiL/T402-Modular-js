@@ -17,6 +17,10 @@ T40901 - Przygotuj grupowo strone zawierajaca nastepujace elementy:
 5. Header z logo i menu
 6. Footer z przyciskiem powrotu na góre strony oraz linkami do mediów spolecznosciowych
 
+Publiczne repozytrium tutaj: https://github.com/T4aiL/T4-Teamwork.git
+
+proszę o regularne pull requesty
+
 T40902 - Przygotuj część projektu grupowego w oparciu o moduły JS.
 
 Projekt: Interaktywna aplikacja obsługiwana klawiaturą pozawalająca na zmianę położenia elementu (prostokąt)
