@@ -40,6 +40,8 @@ GOOGLE DRIVE: https://drive.google.com/drive/folders/1FCn1K3AvZdta3JRNnfCFUlSqAy
 
 https://randomwordgenerator.com  |  https://placeholder.com/  |  https://reqres.in
 
+[<script> async, defer, async defer, module, nomodule, src, inline - the cheat sheet](https://gist.github.com/jakub-g/385ee6b41085303a53ad92c7c8afd7a6)
+
 ```js
 npx json-server --watch data/db.json --port 8000
 ```
